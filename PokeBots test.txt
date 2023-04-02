@@ -1,0 +1,11 @@
+Format: PokeBots
+Name: Look at this Mike
+URL: pokebotspychallongetest
+Charizard, Fire/Flying
+Venusaur, Grass/Poison
+Blastoise, Water
+Excadrill, Ground/Steel
+Slurpuff, Fairy
+Drampa, Normal/Dragon
+Snom, Ice/Bug
+Morpeko, Electric/Dark

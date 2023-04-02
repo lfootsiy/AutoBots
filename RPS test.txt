@@ -1,0 +1,9 @@
+Format: RPS
+Name: Sample RPS tournament
+URL: rpstestpychallonge2
+Mike, R
+SMET, P
+Ice, S
+bp, R
+Tungii, ?
+WAVE, ??
