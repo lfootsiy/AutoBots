@@ -20,6 +20,11 @@ for p in participants:
         name, choice = p.split(",")
         print(f"Create player {name.strip()} as {choice.strip()}")
         players.append(Player(name.strip(), choice.strip()))
+    elif ttype == "Showdown":
+        from Showdown import *
+        name, teams = p.split(",")
+        print(f"Create player {name.strip()} as {teams.strip()}")
+        players.append(Player(name.strip(), teams.strip()))
     elif ttype == "PokeBots":
         from PokeBots import *
         name, typing = p.split(",")
